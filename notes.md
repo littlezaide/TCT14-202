@@ -1,9 +1,28 @@
+# SWOT
+
+# Strengths
+
+- sites - the trail leads to or passes probably *thousands* of sites across the country, whether heritage sites, natural parks or other interesting spots. 
+- there is a compelling story of devoted and organized local groups and volunteers, as well as national organizatons who have chipped in or rolled up their sleeves (i.e. Canadian Military Engineers bridge-building)
+
+# Weaknesses
+
+- story: the story of the trail lacks coherence. What does unity mean? 
+- general lack of visibility, both on the trail, on approaches to the trail, or as something in tourist and outdoors guides 
+
+# Opportunities
+
+
+
+# Threats
+
+- 
+
 # assets
 
 - story
-- sites
-- parks en route (i.e. Terra Nova)
-- story of local orgs and volunteers, as well as national programs
+
+
 - wayfinding information (spurs and other decision points, portage-markings on blue routes)
 - interpretation
 
