@@ -5,6 +5,7 @@
 - parks en route (i.e. Terra Nova)
 - story of local orgs and volunteers, as well as national programs
 - wayfinding information (spurs and other decision points, portage-markings on blue routes)
+- interpretation
 
 # liabilities 
 
