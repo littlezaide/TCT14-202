@@ -35,6 +35,6 @@
 ![](http://i49.photobucket.com/albums/f263/neslogiarc/IAMC%20Website%20and%20Newsletter/CDTSign.jpg)
 
 - E8 European long distance path (1996)
-- E3 European long distance path (unfinished) !(http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kom-Emine-markirovki.JPG/1920px-Kom-Emine-markirovki.JPG)
+- E3 European long distance path (unfinished) ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kom-Emine-markirovki.JPG/1920px-Kom-Emine-markirovki.JPG)
 
 ![](https://atconservancy.wordpress.com/2015/01/21/a-mile-here-a-mile-there/)
